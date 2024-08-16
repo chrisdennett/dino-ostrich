@@ -2,7 +2,16 @@ const PLAYER = {
   FRAMES: {
     INITIAL: 'dino-idle-1',
     IDLING: ['dino-idle-1', 'dino-idle-2'],
-    RUNNING: ['dino-run-1', 'dino-run-2'],
+    RUNNING: [
+      'dino-run-1',
+      'dino-run-2',
+      'dino-run-3',
+      'dino-run-4',
+      'dino-run-5',
+      'dino-run-6',
+      'dino-run-7',
+      'dino-run-8',
+    ],
     DUCKING: ['dino-duck-1', 'dino-duck-2'],
     JUMPING: 'dino-idle-1',
     DEAD: 'dino-dead',
